@@ -21,27 +21,23 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman,scikitlearn,pandas,numpy" />
+
 </p>
 
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumitkumar044&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumitkumar044&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=sumitkumar044&theme=tokyonight" />
 </p>
+
 
 ---
 
@@ -50,7 +46,6 @@
   <a href="mailto:kumarsumit48338@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
- <p align="center">
   <a href="https://github.com/sumitkumar044" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -58,7 +53,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
 </p>
 
 ---
