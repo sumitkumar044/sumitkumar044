@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sumitkumar044/sumitkumar044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Sumit Kumar  
+### BCA Student | MERN Stack Developer | Data Science & AI/ML Enthusiast 🚀  
 
-Here are some ideas to get you started:
+📍 Sitamarhi, Bihar, India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👨‍💻 About Me  
+- 🎓 Bachelor of Computer Applications (2023–2026)  
+- 💻 MERN Stack Developer with strong frontend & backend fundamentals  
+- 📊 Passionate about Data Science, ML & real-world problem solving  
+- 🔍 Interested in building scalable web & data-driven applications  
+- ⚡ Fun fact: I debug more than I sleep 😄  
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="48"/>
+</p>
+
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitkumar044&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sumitkumar044&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:kumarsumit48338@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+ <p align="center">
+  <a href="https://github.com/sumitkumar044" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumit-kumar-47b0a5351/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+</p>
+
+---
+
+<div align="center">
+
+⭐ *“Learning, building, and growing one commit at a time.”*  
+
+</div>
