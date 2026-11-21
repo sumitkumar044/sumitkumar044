@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I’m Sumit Kumar  
-### BCA Student | MERN Stack Developer | Data Science & AI/ML Enthusiast 🚀  
+### MCA Student | MERN Stack Developer | Data Science & AI/ML Enthusiast 🚀  
 
 📍 Sitamarhi, Bihar, India  
 
@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 Bachelor of Computer Applications (2023–2026)  
+- 🎓 Master of Computer Applications (2023–2026) - NIT Allahabad
 - 💻 MERN Stack Developer with strong frontend & backend fundamentals  
 - 📊 Passionate about Data Science, ML & real-world problem solving  
 - 🔍 Interested in building scalable web & data-driven applications  
