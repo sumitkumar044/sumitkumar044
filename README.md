@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 Master of Computer Applications (2023–2026) - NIT Allahabad
+- 🎓 Master of Computer Applications (2026–2029) - NIT Allahabad
 - 💻 MERN Stack Developer with strong frontend & backend fundamentals  
 - 📊 Passionate about Data Science, ML & real-world problem solving  
 - 🔍 Interested in building scalable web & data-driven applications  
